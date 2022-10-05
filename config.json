@@ -1,0 +1,40 @@
+{
+    "view_mode": "vertical",
+    "layout": {
+        "project_explorer_size": 200
+    },
+    "code_editor_shortcut": {
+        "run_queue": "Mod-Enter",
+        "run_queue_then_move_down": "Shift-Enter",
+        "set_group": "Mod-g",
+        "set_ungroup": "Mod-u",
+        "insert_group_below": "Mod-Shift-g",
+        "insert_line_below": "Mod-Shift-l"
+    },
+    "app_shortcut": {
+        "autocompletion_on": "shift + a",
+        "lint_on": "shift + l",
+        "hover_on": "shift + h"
+    },
+    "code_editor": {
+        "lint": false,
+        "autocompletion": false,
+        "hover": false
+    },
+    "dataframe_manager": {
+        "show_exec_text": false,
+        "auto_display_data": true
+    },
+    "rich_output": {
+        "show_markdown": false
+    },
+    "experiment_manager": {
+        "local_tmp_dir": "/tmp/",
+        "mlflow_tracking_uri": "/tmp/.mlflow"
+    },
+    "shortcut_keys": {
+        "run_queue": "Mod-l",
+        "set_group": "Mod-k",
+        "set_ungroup": "Mod-j"
+    }
+}

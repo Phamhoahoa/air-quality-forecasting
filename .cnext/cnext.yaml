@@ -1,0 +1,17 @@
+open_files:
+- executor: null
+  name: bilstm_model.py
+  path: model_training/bilstm_model.py
+  timestamp: null
+- executor: null
+  name: utils.py
+  path: utils/utils.py
+  timestamp: null
+- executor: null
+  name: training.py
+  path: training.py
+  timestamp: null
+open_order:
+- model_training/bilstm_model.py
+- utils/utils.py
+- training.py
